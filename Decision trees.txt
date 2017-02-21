@@ -1,0 +1,10 @@
+Decision trees
+-----------------
+http://dni-institute.in/blogs/decision-tree-a-statistical-and-analytical-tool-for-effective-decisions/ 
+
+CART
+http://dni-institute.in/blogs/cart-decision-tree-gini-index-explained/
+
+DATA SETS
+
+https://archive.ics.uci.edu/ml/datasets.html 
